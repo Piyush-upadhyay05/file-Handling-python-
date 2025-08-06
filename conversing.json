@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Piyush",
+        "age": "21",
+        "city": "Delhi"
+    },
+    {
+        "name": "Aarav",
+        "age": "22",
+        "city": "Mumbai"
+    },
+    {
+        "name": "Riya",
+        "age": "20",
+        "city": "Pune"
+    }
+]

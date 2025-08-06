@@ -1,0 +1,12 @@
+{
+    "name": "Piyush",
+    "age": 21,
+    "is_student": true,
+    "skills": ["Python", "Machine Learning", "Django"],
+    "education": {
+      "college": "XYZ University",
+      "semester": 3
+    },
+    "projects": null
+  }
+  
